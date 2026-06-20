@@ -6,7 +6,7 @@ and cross-browser responsive design.
 
 ## 🚀 Live Demo
 
-[👉 Click here to view the live deployment](https://memodd.github.io/My-Portfolio-Project-1-Netflix-UI-Clone/)
+[👉 Click here to view the live deployment](https://memodd.github.io/My-Portfolio-Project-1-UI-Clone/)]
 
 ## 🛠️ Tech Stack
 
