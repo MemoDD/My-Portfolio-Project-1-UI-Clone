@@ -20,6 +20,14 @@ and cross-browser responsive design.
 *   **Pixel-Perfect Accuracy:** Matches the exact branding, spacing, typography, and styling of the official
 *   Netflix user experience.
 *   **Reusability:** Most elements are made up of reusable classes making it easier to maintain code .
+*   ## 📸 Project Screenshots
+
+### Homepage
+![Homepage Screenshot](Screenshot2026-06-21153940.png)
+
+### Next Page
+![Next Page Screenshot](Screenshot2026-06-21154002.png)
+
 
 ## 📈 Future Enhancements
 
